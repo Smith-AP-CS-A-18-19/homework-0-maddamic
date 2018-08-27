@@ -1,5 +1,5 @@
 /*
- * First and Last Names
+ * Michael Maddalon
  */
 
 public class Homework0 {
@@ -9,6 +9,8 @@ public class Homework0 {
 	 * Ensure that you match case and punctuation exactly
 	 */
 	public static void main(String[] args) {
+
+"Thank you, Kanye. Very Cool!"
 
 	}
 
