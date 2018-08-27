@@ -10,7 +10,7 @@ public class Homework0 {
 	 */
 	public static void main(String[] args) {
 
-"Thank you, Kanye. Very Cool!"
+		System.out.println("Hello, World!");
 
 	}
 
